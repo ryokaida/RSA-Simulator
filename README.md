@@ -1,6 +1,7 @@
 # RSA-Simulator
 Small Python Program to simulate the RSA algorithm with key generation, encryption, and decryption.
 Made for a project in a class.
+The executable (.exe) file is in the dist folder!
 
 To use:
 Select y/n to simulate or not.
